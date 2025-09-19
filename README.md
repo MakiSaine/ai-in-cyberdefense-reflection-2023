@@ -60,8 +60,7 @@ Real time analysis, scalable automation, and enhanced threat intelligence make o
 
 - Deloitte. (2019). Smart cyber: How artificial intelligence technologies can help manage cyber 
 risk. Deloitte. 
-https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Risk/gx-ra-smart
-cyber.pdf
+https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Risk/gx-ra-smartcyber.pdf
  
 - ENISA. (2023). *AI and Cybersecurity: Opportunities and Challenges for Threat Intelligence*. European Union Agency for Cybersecurity. https://www.enisa.europa.eu/publications/ai-and-threat-intelligence
   
@@ -71,8 +70,7 @@ cyber.pdf
   
 - Mohamed, N. (2023). Current trends in AI and ML for cybersecurity: A state-of-the-art 
 survey. Cogent Engineering, 10(2), 
-2272358. https://www.tandfonline.com/doi/epdf/10.1080/23311916.2023.2272358?needAcce
- ss=true
+2272358. https://www.tandfonline.com/doi/epdf/10.1080/23311916.2023.2272358?needAccess=true
 
 ---
 
