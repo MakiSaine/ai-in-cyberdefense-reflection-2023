@@ -62,15 +62,12 @@ Real time analysis, scalable automation, and enhanced threat intelligence make o
 
 - MITRE Engenuity – Center for Threat-Informed Defense. (2025). Secure AI with Threat-Informed Defense Program. Retrieved from https://ctid.mitre.org/blog/2025/05/09/secure-ai-v2/
 
-- - Mohamed, N. (2023). Current trends in AI and ML for cybersecurity: A state-of-the-art 
-survey. Cogent Engineering, 10(2), 
-2272358. https://www.tandfonline.com/doi/epdf/10.1080/23311916.2023.2272358?needAccess=true
+- Mohamed, N. (2023). Current trends in AI and ML for cybersecurity: A state-of-the-art 
+survey. Cogent Engineering, 10(2), 2272358. https://www.tandfonline.com/doi/epdf/10.1080/23311916.2023.2272358?needAccess=true
 
 - Mohsin, A., Janicke, H., Ibrahim, A., Sarker, I. H., & Camtepe, S. (2024). A Unified Framework for Human-AI Collaboration in Security Operations Centers with Trusted Autonomy. arXiv. Retrieved from https://arxiv.org/abs/2505.23397
   
-
-- - Recorded Future. (2025). Vulnerability Intelligence: Prioritize patching based on risk. Retrieved from https://www.recordedfuture.com/products/vulnerability-intelligence
- 
+- Recorded Future. (2025). Vulnerability Intelligence: Prioritize patching based on risk. Retrieved from https://www.recordedfuture.com/products/vulnerability-intelligence
  
 ---
 
