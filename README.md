@@ -58,11 +58,21 @@ Real time analysis, scalable automation, and enhanced threat intelligence make o
 
 ## References
 
-- Deloitte. (2019). *Artificial Intelligence and Risk Management*. Deloitte Insights. https://www2.deloitte.com/insights/us/en/industry/financial-services/artificial-intelligence-in-risk.html  
-- ENISA. (2023). *AI and Cybersecurity: Opportunities and Challenges for Threat Intelligence*. European Union Agency for Cybersecurity. https://www.enisa.europa.eu/publications/ai-and-threat-intelligence  
-- Gartner. (2023). *AI in Security Operations: The Importance of Human in the Loop Approaches*. Gartner Research. https://www.gartner.com/en/documents/456789-ai-security-operations  
-- IBM Security. (2022). *Automation in the SOC: How AI is Transforming Security Operations*. IBM. https://www.ibm.com/security/artificial-intelligence  
-- Mohamed, A. (2023). *AI Driven Intrusion Detection: Enhancing Cyber Defense with Real Time Traffic Classification.* Journal of Cybersecurity Research, 15(3), 45–60. https://doi.org/10.1234/jcsr.v15i3.567
+- Deloitte. (2019). Smart cyber: How artificial intelligence technologies can help manage cyber 
+risk. Deloitte. 
+https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Risk/gx-ra-smart
+cyber.pdf
+ 
+- ENISA. (2023). *AI and Cybersecurity: Opportunities and Challenges for Threat Intelligence*. European Union Agency for Cybersecurity. https://www.enisa.europa.eu/publications/ai-and-threat-intelligence
+  
+- Gartner. (2023). *AI in Security Operations: The Importance of Human in the Loop Approaches*. Gartner Research. https://www.gartner.com/en/documents/456789-ai-security-operations
+  
+- IBM Security. (2022). *Automation in the SOC: How AI is Transforming Security Operations*. IBM. https://www.ibm.com/security/artificial-intelligence
+  
+- Mohamed, N. (2023). Current trends in AI and ML for cybersecurity: A state-of-the-art 
+survey. Cogent Engineering, 10(2), 
+2272358. https://www.tandfonline.com/doi/epdf/10.1080/23311916.2023.2272358?needAcce
+ ss=true
 
 ---
 
