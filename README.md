@@ -1,7 +1,7 @@
 # AI in Cyber Defense Reflection
 
 This repository contains a comprehensive reflection note discussing the role of Artificial Intelligence (AI) in strengthening cyber defense.  
-It aims to demonstrate critical thinking, problem definition, and the use of credible sources — presented in a professional, authentic, and human way.
+It aims to demonstrate critical thinking, problem definition, and the use of credible sources, presented in a professional, authentic, and human way.
 
 ## Problem Statement
 
