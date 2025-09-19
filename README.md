@@ -62,9 +62,9 @@ Real time analysis, scalable automation, and enhanced threat intelligence make o
 risk. Deloitte. 
 https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Risk/gx-ra-smartcyber.pdf
  
-- ENISA. (2023). *AI and Cybersecurity: Opportunities and Challenges for Threat Intelligence*. European Union Agency for Cybersecurity. https://www.enisa.europa.eu/publications/ai-and-threat-intelligence
+- ENISA. (2023). *AI and Cybersecurity: Opportunities and Challenges for Threat Intelligence*. European Union Agency for Cybersecurity. https://www.enisa.europa.eu/
   
-- Gartner. (2023). *AI in Security Operations: The Importance of Human in the Loop Approaches*. Gartner Research. https://www.gartner.com/en/documents/456789-ai-security-operations
+- Gartner. (2023). *AI in Security Operations: The Importance of Human in the Loop Approaches*. Gartner Research. https://www.gartner.com/en/cybersecurity/topics/cybersecurity-and-ai?
   
 - IBM Security. (2022). *Automation in the SOC: How AI is Transforming Security Operations*. IBM. https://www.ibm.com/security/artificial-intelligence
   
